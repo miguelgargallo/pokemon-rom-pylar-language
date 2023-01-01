@@ -9,7 +9,7 @@
 * Pokemon Rom Pylar Language
 ├── .gitignore
 ├── Readme.md
-├── dir.sh
+├── dir.pylar
 ├── requirements.txt
 ├── setup.pylar
 ├── src
